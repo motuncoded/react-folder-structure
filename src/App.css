@@ -1,0 +1,32 @@
+.App{
+  display: grid;
+  place-items: center;
+}.App h1 {
+  text-align: center;
+}
+.app-container{
+  
+  display: flex;
+justify-content: center; 
+align-items: center;
+ background-color:floralwhite;
+ border: 1px solid wheat;
+  width: 700px;height: 500px;
+  
+}
+.beginner{
+
+  width: 300px;
+  height: 500px;
+}
+.beginner ul{
+  padding: 1rem;
+  list-style-type:circle ;
+  list-style-position: inside;
+  color: gray;
+
+
+
+}.beginner ul li{
+  padding: .5rem;
+}
